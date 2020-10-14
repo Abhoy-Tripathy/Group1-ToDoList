@@ -1,0 +1,36 @@
+updated requirements list
+1. Wireframe
+    1. Organisation of the content
+2. Design
+    1. Color style
+    2. Fonts
+    3. Icons
+3. Input field
+    1. Textfield
+    2. Fields characters limited
+    3. Header field
+    4. Description field
+4. Checkboxes
+    1. Marking content for event
+5. Buttons
+    1. Adds content to the list
+    2. Delete single content
+    3. (Optional) mark content on checkbox for deletion
+6. Edit option for item
+    1. Edit existing task with more content
+7. Check / uncheck
+    1. Marks list as done or open
+8. List overview
+    1. Lists every task
+    2. List item max. to?
+    3. Hover over item effect
+9. Rating / prioritising
+    1. Numbers 1 to 10
+    2. Sort by rating from high to low
+10. Deadline
+    1. Calendar option to mark deadline of the task
+    2. Time frame with separation/space/line in the list
+    3. Remind about the deadline
+    4. Remind about expiring
+11. Store data in local storage
+    1. All input needs to be stored for 10 days
